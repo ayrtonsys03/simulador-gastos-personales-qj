@@ -51,4 +51,5 @@ Se abrirá automáticamente una pestaña en tu navegador en `http://localhost:85
 
 ---
 *Nota 1: El PDF que se exporta es simple y no es muy estetico, se recomienda editarlo y mejorarlo a gusto personal. Ya que esta hecho con fpdf2 y no es muy personalizable.*
+---
 *Nota 2: Este proyecto fue hecho con la ayuda de [Gemini 3 Pro](https://gemini.google.com/) para solucionar un pequeño problema que tenia con el proyecto, sobre la forma de guardar los cambios en la tabla interactiva y el buscador de transacciones, algo simple pero con esta ia pude ahorrarme algo de tiempo. Ademas de pedirle que agregue comentarios a las funciones para que cualquiera pueda entender mejor el codigo.*
