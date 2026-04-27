@@ -1,0 +1,23 @@
+{
+  "Ingreso": [
+    "Salario",
+    "Freelance",
+    "Inversiones",
+    "Regalos",
+    "Ventas",
+    "Otros Ingresos"
+  ],
+  "Gasto": [
+    "Comida",
+    "Transporte",
+    "Vivienda",
+    "Servicios",
+    "Ocio",
+    "Salud",
+    "Educación",
+    "Ropa",
+    "Mascotas",
+    "Viajes",
+    "Otros Gastos"
+  ]
+}
